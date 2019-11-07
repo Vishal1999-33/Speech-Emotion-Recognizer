@@ -1,5 +1,7 @@
 # Python_Project on Speech Emotion Recognition.
 The main objective of this project is to build a model to recognize emotion from speech using the librosa and sklearn libraries and the RAVDESS dataset.
+
+
 Speech Emotion Recognition is a process in order to recognize human emotion and affective states from speech.Voice often reflects underlying emotion through tone and pitch.
 Librosa, a python library used for analyzing audio and music, is used for this recognition. It has a flatter package layout, standardizes interfaces and names, backwards compatibility, modular functions, and readable code. Soundfile is used to read and write sound files. It is an audio library based on libsndfile, CFFI and NumPy.
 In order to install librosa and soundfile, following are the commands with anaconda prompt:-
