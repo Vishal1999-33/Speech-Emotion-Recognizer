@@ -1,4 +1,4 @@
-# Python_Project on Speech Emotion Recognition.
+# Python Project on Speech Emotion Recognition.
 The main objective of this project is to build a model to recognize emotion from speech using the librosa and sklearn libraries and the RAVDESS dataset.
 
 
