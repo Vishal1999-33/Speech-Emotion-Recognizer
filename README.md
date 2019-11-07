@@ -7,11 +7,15 @@ Librosa, a python library used for analyzing audio and music, is used for this r
 
 
 In order to install librosa and soundfile, following are the commands with anaconda prompt:-
+
   Librosa:-
+  
      conda install -c conda-forge librosa
      conda install -c conda-forge/label/gcc7 librosa
      conda install -c conda-forge/label/cf201901 librosa
-  Soundfile:-   
+     
+  Soundfile:-
+  
      conda install -c conda-forge pysoundfile
      conda install -c conda-forge/label/gcc7 pysoundfile
      conda install -c conda-forge/label/cf201901 pysoundfile
