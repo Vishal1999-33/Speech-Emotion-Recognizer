@@ -30,3 +30,5 @@ MLPClassifier implements a multi-layer perceptron (MLP) algorithm that trains us
 The leftmost layer, known as the input layer, consists of a set of neurons representing the input features. Each neuron in the hidden layer transforms the values from the previous layer with a weighted linear summation (w*x), followed by a non-linear activation function  g(.):R-->R - like the hyperbolic tan function. The output layer receives the values from the last hidden layer and transforms them into output values.
 
 The module contains the public attributes coefs_ and intercepts_. coefs_ is a list of weight matrices, where weight matrix at index i represents the weights between layer i and (i+1) layer . intercepts_ is a list of bias vectors, where the vector at index i represents the bias values added to layer (i+1).
+
+Ravdess Dataset is the Ryerson Audio-Visual Database of Emotional Speech. It consists of data related to 24 actors each having 60 individual different kind of speech.This dataset looks like this:-
