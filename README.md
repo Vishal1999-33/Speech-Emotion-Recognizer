@@ -37,4 +37,5 @@ Ravdess Dataset is the Ryerson Audio-Visual Database of Emotional Speech. It con
 ![dataset-simple-python-project](https://user-images.githubusercontent.com/54469035/68451694-c15eb680-0215-11ea-8d80-152e65fc593b.png)
 
 
+![dataset-2-interesting-python-projects](https://user-images.githubusercontent.com/54469035/68451756-fa972680-0215-11ea-8877-073d083fc060.png)
 
