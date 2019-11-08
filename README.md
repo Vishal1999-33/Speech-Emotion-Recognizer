@@ -32,3 +32,9 @@ The leftmost layer, known as the input layer, consists of a set of neurons repre
 The module contains the public attributes coefs_ and intercepts_. coefs_ is a list of weight matrices, where weight matrix at index i represents the weights between layer i and (i+1) layer . intercepts_ is a list of bias vectors, where the vector at index i represents the bias values added to layer (i+1).
 
 Ravdess Dataset is the Ryerson Audio-Visual Database of Emotional Speech. It consists of data related to 24 actors each having 60 individual different kind of speech.This dataset looks like this:-
+
+
+![dataset-simple-python-project](https://user-images.githubusercontent.com/54469035/68451694-c15eb680-0215-11ea-8d80-152e65fc593b.png)
+
+
+
